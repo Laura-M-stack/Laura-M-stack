@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Laura 🙂</h1>
-<h3 align="center">Full Stack Web Developer y Tester QA</h3>
+<h1 align="center">Hi 👋, I´m Laura 🙂</h1>
+<h3 align="center">Full Stack Web Developer and QA Tester</h3>
 
 <div align="center">
   <img src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.webp" alt="gif_typing" 
@@ -7,34 +7,34 @@
       width="600" />
 </div>
 
-<h3>Sobre mi ⭐</h3>
-<p>Soy Laura Moyano, Desarrolladora Web y Tester QA 🚀 de Buenos Aires, Argentina</p>
+<h3>About me ⭐</h3>
+<p>I´m Laura Moyano, Full Stack Web Developer and QA Tester 🚀 from Buenos Aires, Argentina</p>
 
-- 🎓 Desarrolladora Web con especialización en Django (Codo a Codo 4.0)
+- 🎓 Web Developer specialized in Django (Codo a Codo 4.0)
 
-- 🎓 Tester QA Manual (Infosis - UTN)
+- 🎓 QA Manual Tester (Infosis - UTN)
   
-- 🎓 Master en Inteligencia Artificial (Intel/BGH/Bounty EdTech)
+- 🎓 Advanced Course for Technologist with experience in Artificial Intelligence - 1000 Women in AI (Intel/BGH/Bounty EdTech)
   
-- 🎓 Diplomada en Transformación Digital (UTN - Agosto)
+- 🎓 Diplomated in Digital Transformation (UTN - August)
 
-- 🎓 Técnica Universitaria en Desarrollo Web (UNER - En curso)
+- 🎓 University Degree in Web Development (UNER - In progress)
 
-- 👩🏻‍💻 Obrserva mi portfolio: Coming soon
+- 👩🏻‍💻 See my portfolio: Coming soon
 
-- 📫 Contacto: lauraymh000@gmail.com
+- 📫 Contact: lauraymh000@gmail.com
 
-- :books: Aprendizaje: Exploración de datos // EDA. Desarrollo de sistemas de IA :robot:, Machine Learning y Deep Learning, Master I.A. , Industria 4.0, web3
+- :books: Learning: Data Analysis // EDA // AI Systems Development :robot:, Machine Learning, Convolutional Neural Networks, Web3 and Blockchain
 
-- ⚡ Hobbies: :heart: Amo leer :books: , me encanta crear ropa 👗 y artesanías 🧵
+- ⚡ Hobbies: :heart: I love reading :books: , Creating clothes 👗 and crafts 🧵
 
-<h3 align="left">Mi LinkedIn:</h3>
+<h3 align="left">My LinkedIn:</h3>
 
 - <a href="https://www.linkedin.com/in/laura-moyano-h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daiana-guazzetti/" height="20" width="30" /></a>
 <br><br>
-<h2 align="center">👩🏻‍💻 Tecnologías que uso:</h2>
+<h2 align="center">👩🏻‍💻 Technologies I use:</h2>
 
-<h3 align="left">Lenguajes:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -52,7 +52,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
-<h3 align="left">Base de Datos:</h3>
+<h3 align="left">DataBase:</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
