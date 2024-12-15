@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I´m Laura 🙂</h1>
-<h3 align="center">Full Stack Web Developer and QA Tester</h3>
+<h3 align="center">Full Stack Web and AI Developer</h3>
 
 <div align="center">
   <img src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.webp" alt="gif_typing" 
@@ -8,25 +8,25 @@
 </div>
 
 <h3>About me ⭐</h3>
-<p>I´m Laura Moyano, Full Stack Web Developer and QA Tester 🚀 from Buenos Aires, Argentina</p>
+<p>I´m Laura Moyano, Full Stack Web and AI Developer 🚀 from Buenos Aires, Argentina</p>
 
 - 🎓 Web Developer specialized in Django (Codo a Codo 4.0)
 
 - 🎓 QA Manual Tester (Infosis - UTN)
   
-- 🎓 Advanced Course for Technologist with experience in Artificial Intelligence - 1000 Women in AI (Intel/BGH/Bounty EdTech)
+- 🎓 Advanced Course for Technologist with experience in Artificial Intelligence - 1000 Women in AI (Intel / BGH / Bounty EdTech)
   
-- 🎓 Diplomated in Digital Transformation (UTN - August)
+- 🎓 Diplomated in Digital Transformation (UTN)
 
-- 🎓 University Degree in Web Development (UNER - In progress)
+- 🎓 University Technical Degree in Web Development (UNER - In progress)
 
 - 👩🏻‍💻 See my portfolio: Coming soon
 
 - 📫 Contact: lauraymh000@gmail.com
 
-- :books: Learning: Data Analysis // EDA // AI Systems Development :robot:, Machine Learning 📈, Convolutional Neural Networks 🧠, Web3 and Blockchain 🔗
+- :books: Learning: Data Analysis // EDA // AI Systems Development :robot:, Machine Learning 📈, Convolutional Neural Networks 🧠
 
-- ⚡ Hobbies: :heart: I love reading :books: , Creating clothes 👗 and crafts 🧵
+- ⚡ Hobbies: :heart: I love reading :books: , watching documentaries 📺, creating clothes 👗 and crafts 🧵
 
 <h3 align="left">My LinkedIn:</h3>
 
