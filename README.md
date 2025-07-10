@@ -24,9 +24,9 @@
 
 - 📫 Contact: lauraymh000@gmail.com
 
-- :books: Learning: AI Systems Development :robot:, Machine Learning 📈, DevOps ♾️
+- 📚 Learning: AI Systems Development 🤖, Machine Learning 📈, DevOps ♾️
 
-- ⚡ Hobbies: :heart: I love reading :books: , watching documentaries 📺, creating clothes 👗 and crafts 🧵
+- ⚡ Hobbies: 💞 I love reading 📖 , watching documentaries 📺, going out for breakfast by the side of the river 🏞️ and taking courses 👩🏻‍🏫.
 
 <h3 align="left">My LinkedIn:</h3>
 
