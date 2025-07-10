@@ -24,7 +24,7 @@
 
 - 📫 Contact: lauraymh000@gmail.com
 
-- :books: Learning: Data Analysis // EDA // AI Systems Development :robot:, Machine Learning 📈, Convolutional Neural Networks 🧠
+- :books: Learning: AI Systems Development :robot:, Machine Learning 📈, DevOps ♾️
 
 - ⚡ Hobbies: :heart: I love reading :books: , watching documentaries 📺, creating clothes 👗 and crafts 🧵
 
