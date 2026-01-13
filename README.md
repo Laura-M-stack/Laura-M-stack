@@ -20,7 +20,7 @@
 
 - 🎓 University Technical Degree in Web Development (UNER - In progress)
 
-- 👩🏻‍💻 See my portfolio: [Here](https://laura-moyano-portfolio.netlify.app/)
+- 👩🏻‍💻 See my portfolio: [Here](https://laura-m-stack.github.io/laura-moyano-portfolio/)
 
 - 📫 Contact: lauraymh000@gmail.com
 
