@@ -1,80 +1,115 @@
-<h1 align="center">Hi 👋, I´m Laura 🙂</h1>
-<h3 align="center">Full Stack Web and AI Developer</h3>
-
 <div align="center">
-  <img src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.webp" alt="gif_typing" 
-      height="300"
-      width="600" />
+
+# Hola, soy Laura Moyano 👋
+
+### Full Stack Developer · AI Engineer · Buenos Aires, Argentina
+
+**Construyo productos digitales con criterio de negocio y foco en el usuario.**
+
+*Más de 20 años entendiendo qué necesita la gente — ahora aplicado a la tecnología.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-moyano-h/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://laura-m-stack.github.io/laura-moyano-portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauraymh000@gmail.com)
+
 </div>
 
-<h3>About me ⭐</h3>
-<p>I´m Laura Moyano, Full Stack Web and AI Developer 🚀 from Buenos Aires, Argentina</p>
+---
 
-- 🎓 Web Developer specialized in Django (Codo a Codo 4.0)
+## Sobre mí
 
-- 🎓 QA Manual Tester (Infosis - UTN)
-  
-- 🎓 Advanced Course for Technologist with experience in Artificial Intelligence - 1000 Women in AI (Intel / BGH / Bounty EdTech)
-  
-- 🎓 Diplomated in Digital Transformation (UTN)
+Desarrolladora Full Stack en la intersección entre código, diseño y producto. Trabajo de punta a punta — desde la arquitectura hasta la interfaz — priorizando claridad, usabilidad y soluciones que realmente tengan sentido.
 
-- 🎓 University Technical Degree in Web Development (UNER - In progress)
+Desarrollé interfaces para una plataforma de exchange internacional, entrené modelos de lenguaje, lideré un proyecto ganador en un hackathon blockchain, y doy charlas sobre IA aplicada a negocios. Actualmente terminando la Tecnicatura Universitaria en Desarrollo Web y trabajando en mis propios productos.
 
-- 👩🏻‍💻 See my portfolio: [Here](https://laura-m-stack.github.io/laura-moyano-portfolio/)
+Uso IA como multiplicador de productividad — con bases sólidas de ingeniería: SOLID, patrones de diseño, arquitectura limpia.
 
-- 📫 Contact: lauraymh000@gmail.com
+---
 
-- 📚 Learning: AI Systems Development 🤖, Machine Learning 📈, DevOps ♾️
+## 🛠️ Stack
 
-- ⚡ Hobbies: 💞 I love reading 📖 , watching documentaries 📺, going out for breakfast by the side of the river 🏞️ and taking courses 👩🏻‍🏫.
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Aurelia](https://img.shields.io/badge/Aurelia-ED2B88?style=flat-square&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-<h3 align="left">My LinkedIn:</h3>
+### Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logoColor=white)
 
-- <a href="https://www.linkedin.com/in/laura-moyano-h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daiana-guazzetti/" height="20" width="30" /></a>
-<br><br>
-<h2 align="center">👩🏻‍💻 Technologies I use:</h2>
+### Bases de datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat-square&logoColor=white)
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
-</p>
+### IA & Automatización
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B2FBE?style=flat-square&logoColor=white)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-E74C3C?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-<h3 align="left">Frameworks:</h3>
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="45" height="35"/> 
-  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/django-1.png" alt="django" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" color="white"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</p>
+### Diseño & Producto
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX%2FUI_Design-9B59B6?style=flat-square&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design_Systems-2C3E50?style=flat-square&logoColor=white)
 
-<h3 align="left">DataBase:</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</p>
+### Cloud & Tooling
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="kubernetes" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" alt="figma" width="30" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="40" height="40"/>  
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="48" height="48"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40"/>
-  <br> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Testlink_logo.png?20120315105529" alt="testlink" width="90" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/de/b/b0/MantisBT_logo.png?20131202122724" alt="mantisbt" width="90" height="40"/>  
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/>  
-  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="40" height="40"/>   
-</p>
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer&descAlign=55&descAlignY=20"/>
-</p>
+---
+
+## 💼 Experiencia destacada
+
+**Product Engineer** · Chicks Group Inc. *(May – Nov 2025)*
+Desarrollo y mantenimiento de interfaces en la plataforma de exchange ChicksX. Componentes UI con Aurelia, TypeScript y SCSS. Trabajo con equipos internacionales.
+
+**AI Trainer** · Outlier.ai *(Oct 2024 – May 2025)*
+Entrenamiento y evaluación de modelos de lenguaje. Desarrollo de prompts de evaluación, fine-tuning y mejora de rendimiento.
+
+**Full Stack Developer & PM** · Latina Blockchain Hackathon 2024
+Lideré el desarrollo de *SafePets*, marketplace blockchain. **🏆 Ganador categoría Polygon Cardona — Innovación.**
+
+---
+
+## 🎤 Charlas & Comunidad
+
+- **IA en acción: Hackeá tu productividad diaria** — Programa M1000IA (2024)
+- **Comité Mujeres en Tecnología** — Panel Intel con Dra. Florencia Pollo-Cattaneo (2024)
+- **IA para Mujeres Empresarias: Automatización y Productividad Responsable** — MEFEBA (2024)
+
+---
+
+## 🎓 Educación
+
+- **Tecnicatura Universitaria en Desarrollo Web** — UTN *(2024 – Presente, último cuatrimestre)*
+- **Diplomatura en Transformación Digital** — UTN (2024)
+- **Cursos complementarios** — Harvard Business Impact, Santander Open Academy, M1000IA y otros
+
+---
+
+<div align="center">
+
+*Disponible para consultoría, colaboraciones y desarrollo de productos.*
+**Hablemos.**
+
+[![Portfolio](https://img.shields.io/badge/Ver_portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://laura-m-stack.github.io/laura-moyano-portfolio/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer"/>
+
+</div>
