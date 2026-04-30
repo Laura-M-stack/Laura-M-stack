@@ -97,7 +97,7 @@ Lideré el desarrollo de *SafePets*, marketplace blockchain. **🏆 Ganador cate
 
 ## 🎓 Educación
 
-- **Tecnicatura Universitaria en Desarrollo Web** — UTN *(2024 – Presente, último cuatrimestre)*
+- **Tecnicatura Universitaria en Desarrollo Web** — UNER *(2024 – Presente, último año)*
 - **Diplomatura en Transformación Digital** — UTN (2024)
 - **Cursos complementarios** — Harvard Business Impact, Santander Open Academy, M1000IA y otros
 
